@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gildo Souza Junior</a>, <a href="https://github.com/fecaphub/Portfolio">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-69b37b36b">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gildo Souza Junior</a>, <a href="https://github.com/fecaphub/Portfolio">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-69b37b36b">Victor Hugo de Melo Ribeiro</a>, <a href="https://www.linkedin.com/in/victor-hugo-de-melo-ribeiro-2b2756375">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
