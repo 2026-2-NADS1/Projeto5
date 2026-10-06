@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gildo Souza Junior</a>, <a href="https://github.com/fecaphub/Portfolio">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-69b37b36b">Victor Hugo de Melo Ribeiro</a>, <a href="https://www.linkedin.com/in/victor-hugo-de-melo-ribeiro-2b2756375">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gildo Souza Junior</a>, <a href="https://github.com/fecaphub/Portfolio">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-69b37b36b">Victor Hugo de Melo Ribeiro</a>, <a href="https://www.linkedin.com/in/victor-hugo-de-melo-ribeiro-2b2756375">Kauê Lima Cerqueira</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-lima-2b2388433/">Roronoa Zoro</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
@@ -104,7 +104,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://github.com/2026-2-NADS1/Projeto5">Tortuguita Saga</a> © 2026 by <a href="https://github.com/2026-2-NADS1/Projeto5">Kauê Lima Cerqueira, Gildo Souza Junior, Kainan de Souza Alves, Victor Hugo de Melo Ribeiro, Raissa Sousa Nunes,FECAP</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
