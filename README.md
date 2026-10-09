@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://github.com/fecaphub/Portfolio">Gildo Souza Junior</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-alves">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/victor-hugo-de-melo-ribeiro-2b2756375">Victor Hugo de Melo Ribeiro</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-lima-2b2388433/">Kauê Lima Cerqueira</a>, <a href=""></a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/?isSelfProfile=false">Dr. Victor Rosseti</a>, <a href="https://www.linkedin.com/in/mmamorim/?isSelfProfile=false">Marcelo Amorim</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/?isSelfProfile=false">Ronaldo Araujo</a>, <a href="https://www.linkedin.com/in/remuniz/?isSelfProfile=false">Renata Muniz</a>, <a href="https://www.linkedin.com/in/aimarlopes/?isSelfProfile=false">Aimar Martins</a>
 
 ## Descrição
 
