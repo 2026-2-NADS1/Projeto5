@@ -24,16 +24,9 @@ Vide tutoriais do PI.
 O Projeto Integrador é um site que simula um jogo de aventura e quiz, protagonizado por uma tartaruga que viaja de ilha em ilha. Cada ilha tem um nível de dificuldade (fácil, média ou difícil), e a tartaruga enfrenta inimigos pelo caminho. Para avançar, o jogador precisa responder corretamente às perguntas de um quiz e atingir o número mínimo de acertos exigido em cada ilha. Se a vida da tartaruga chegar a zero, a partida termina em derrota. Se ela concluir todas as ilhas, a partida termina em vitória.
 
 O objetivo é unir diversão e aprendizado: o jogador pratica conteúdos respondendo às perguntas e recebe uma explicação após cada resposta, enquanto progride em uma aventura com dificuldade crescente
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+  
+  Game by <a href="https://github.com/fecaphub/Portfolio">Gildo Souza Junior</a>, <a href="https://www.linkedin.com/in/kainan-de-souza-alves">Kainan De Souza Alves</a>, <a href="https://www.linkedin.com/in/victor-hugo-de-melo-ribeiro-2b2756375">Victor Hugo de Melo Ribeiro</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-lima-2b2388433/">Kauê Lima Cerqueira</a>, <a href=""></a>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
