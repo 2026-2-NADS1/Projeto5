@@ -21,7 +21,9 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+O Projeto Integrador é um site que simula um jogo de aventura e quiz, protagonizado por uma tartaruga que viaja de ilha em ilha. Cada ilha tem um nível de dificuldade (fácil, média ou difícil), e a tartaruga enfrenta inimigos pelo caminho. Para avançar, o jogador precisa responder corretamente às perguntas de um quiz e atingir o número mínimo de acertos exigido em cada ilha. Se a vida da tartaruga chegar a zero, a partida termina em derrota. Se ela concluir todas as ilhas, a partida termina em vitória.
+
+O objetivo é unir diversão e aprendizado: o jogador pratica conteúdos respondendo às perguntas e recebe uma explicação após cada resposta, enquanto progride em uma aventura com dificuldade crescente
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
