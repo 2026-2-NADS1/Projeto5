@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lViexyQ4Yc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\26029726\\Documents\\testepi2.cs\\testepi2.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\26029726\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\26029726\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
